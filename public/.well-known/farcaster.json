@@ -1,11 +1,11 @@
 {
   "name": "Tâm Trạng Hôm Nay",
   "description": "Mini App chọn tâm trạng và nhận quote truyền cảm hứng.",
-  "url": "https://yourdomain.com",
-  "icon": "https://yourdomain.com/icon.png",
+  "url": "githttps://emotion-quotes-miniapp.vercel.app",
+  "icon": "githttps://emotion-quotes-miniapp.vercel.app/icon.png",
   "preview": {
     "title": "Bạn cảm thấy thế nào hôm nay?",
-    "image": "https://yourdomain.com/preview.png"
+    "image": "githttps://emotion-quotes-miniapp.vercel.app/preview.png"
   },
   "developer": {
     "name": "Hải",
