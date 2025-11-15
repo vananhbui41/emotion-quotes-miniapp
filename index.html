@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tâm Trạng Hôm Nay</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div id="question-box" class="fade-in">
+      <h1>Hôm nay bạn cảm thấy thế nào?</h1>
+      <div class="buttons">
+        <button onclick="showQuote('happy')">😊 Vui</button>
+        <button onclick="showQuote('sad')">😢 Buồn</button>
+        <button onclick="showQuote('neutral')">😐 Bình thường</button>
+        <button onclick="showQuote('angry')">😠 Bực bội</button>
+      </div>
+    </div>
+    <div id="quote-box" class="hidden fade-in">
+      <p id="quote-text"></p>
+      <button onclick="location.reload()">🔁 Chọn lại</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
