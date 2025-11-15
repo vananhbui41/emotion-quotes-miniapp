@@ -1,0 +1,14 @@
+{
+  "name": "Tâm Trạng Hôm Nay",
+  "description": "Mini App chọn tâm trạng và nhận quote truyền cảm hứng.",
+  "url": "https://yourdomain.com",
+  "icon": "https://yourdomain.com/icon.png",
+  "preview": {
+    "title": "Bạn cảm thấy thế nào hôm nay?",
+    "image": "https://yourdomain.com/preview.png"
+  },
+  "developer": {
+    "name": "Hải",
+    "url": "https://yourportfolio.com"
+  }
+}
